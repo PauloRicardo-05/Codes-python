@@ -1,5 +1,5 @@
-# Praticas-de-python
+#Codes-Python
 
-Aqui estão alguns exercícios de python para pratica.
+Here you will find code for several solved exercises, great for beginners to practice logic and the programming language itself.
 
-Here are some python exercises to practice.
+Ranking from beginner to intermediate level.
